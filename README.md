@@ -22,8 +22,8 @@ npm server.js
 localhost/3001
 
   ## Usage
-![hippo](https://github.com/cnl-95/Team-Profile-Generator/blob/main/recording/Animation.gif?raw=true)
-![Screen Shot](https://raw.githubusercontent.com/cnl-95/Team-Profile-Generator/main/recording/Screenshot%202022-07-18%20024937.png)
+![hippo](https://github.com/cnl-95/Note-Taker/blob/main/imgs/Animation.gif?raw=true)
+
 
   ## License
   This project is licensed under the MIT license.
