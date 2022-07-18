@@ -14,7 +14,7 @@
   - [Questions](#questions)
   
   ## Description 
-This is an application you can use to add team members using node
+This is a simple application you can use to make save save notes!
   ## Installation
 npm i
 npm server.js
