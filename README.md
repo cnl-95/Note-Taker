@@ -17,7 +17,7 @@
 This is a simple application you can use to make save save notes!
   ## Installation
 npm i
-npm server.js
+node server.js
 
 localhost/3001
 
